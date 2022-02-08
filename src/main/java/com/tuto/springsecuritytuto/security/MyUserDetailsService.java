@@ -1,7 +1,7 @@
 package com.tuto.springsecuritytuto.security;
 
-import com.crud.api.crudrestapitutoriel.model.User;
-import com.crud.api.crudrestapitutoriel.repository.UserRepository;
+import com.tuto.springsecuritytuto.model.User;
+import com.tuto.springsecuritytuto.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
