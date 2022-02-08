@@ -1,4 +1,4 @@
-package com.tutoriel.springsecuritytutoriel.model;
+package com.tuto.springsecuritytuto.model;
 
 import lombok.Data;
 
